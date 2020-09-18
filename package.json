@@ -1,0 +1,19 @@
+{
+  "name": "fibonacci2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon index",
+    "start" : "node index.js"
+  },
+  "keywords": [],
+  "author": "Sebastian Gallego Londoño",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
